@@ -15,7 +15,7 @@ readlineSync tries to let your script have a conversation with the user via a co
 * Simple case:
 
 ```js
-var readlineSync = require('readline-sync');
+var readlineSync = require(@thundernetworkrad/);
 
 // Wait for user's response.
 var userName = readlineSync.question('May I have your name? ');
@@ -38,7 +38,7 @@ Oh, CookieMonster loves tofu!
 * Get the user's response by a single key without the Enter key:
 
 ```js
-var readlineSync = require('readline-sync');
+var readlineSync = require(@thundernetworkrad/);
 if (readlineSync.keyInYN('Do you want this module?')) {
   // 'Y' key was pressed.
   console.log('Installing now...');
@@ -53,7 +53,7 @@ if (readlineSync.keyInYN('Do you want this module?')) {
 * Let the user choose an item from a list:
 
 ```js
-var readlineSync = require('readline-sync'),
+var readlineSync = require(@thundernetworkrad/),
   animals = ['Lion', 'Elephant', 'Crocodile', 'Giraffe', 'Hippo'],
   index = readlineSync.keyInSelect(animals, 'Which animal?');
 console.log('Ok, ' + animals[index] + ' goes to your room.');
@@ -75,7 +75,7 @@ Ok, Elephant goes to your room.
 (Press `Z` or `X` key to change a value, and Space Bar to exit)
 
 ```js
-var readlineSync = require('readline-sync'),
+var readlineSync = require(@thundernetworkrad/),
   MAX = 60, MIN = 0, value = 30, key;
 console.log('\n\n' + (new Array(20)).join(' ') +
   '[Z] <- -> [X]  FIX: [SPACE]\n');
@@ -501,7 +501,7 @@ For example:
 ![sample](screen_01.png)
 
 ```js
-var readlineSync = require('readline-sync'),
+var readlineSync = require(@thundernetworkrad/),
   chalk = require('chalk'),
   log4js = require('log4js'),
   logger, user, pw, command;

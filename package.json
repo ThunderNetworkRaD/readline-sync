@@ -1,6 +1,6 @@
 {
-  "name": "readline-sync",
-  "version": "1.4.10",
+  "name": "@thundernetworkrad/readline-sync",
+  "version": "2023.01.10",
   "title": "readlineSync",
   "description": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).",
   "keywords": [
@@ -26,15 +26,10 @@
   "engines": {
     "node": ">= 0.8.0"
   },
-  "homepage": "https://github.com/anseki/readline-sync",
+  "homepage": "https://github.com/ThunderNetworkRaD/readline-sync",
   "repository": {
     "type": "git",
-    "url": "git://github.com/anseki/readline-sync.git"
+    "url": "git://github.com/ThunderNetworkRaD/readline-sync.git"
   },
-  "bugs": "https://github.com/anseki/readline-sync/issues",
-  "license": "MIT",
-  "author": {
-    "name": "anseki",
-    "url": "https://github.com/anseki"
-  }
+  "bugs": "https://github.com/ThunderNetworkRaD/readline-sync/issues"
 }
