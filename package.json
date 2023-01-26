@@ -20,7 +20,7 @@
   ],
   "main": "./lib/readline-sync.js",
   "files": [
-    "lib/*.@(js|ps1|sh)",
+    "lib/*.@(js|ps1|sh|d.ts)",
     "README-Deprecated.md"
   ],
   "engines": {
