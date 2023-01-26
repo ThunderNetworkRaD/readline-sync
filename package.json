@@ -1,6 +1,6 @@
 {
   "name": "@thundernetworkrad/readline-sync",
-  "version": "2023.01.26-1",
+  "version": "2023.01.26-2",
   "title": "readlineSync",
   "description": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).",
   "keywords": [
@@ -19,10 +19,6 @@
     "block"
   ],
   "main": "./lib/readline-sync.js",
-  "files": [
-    "lib/*.@(js|ps1|sh|d.ts)",
-    "README-Deprecated.md"
-  ],
   "engines": {
     "node": ">= 0.8.0"
   },
