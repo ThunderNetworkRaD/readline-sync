@@ -19,6 +19,7 @@
     "block"
   ],
   "main": "./lib/readline-sync.js",
+  "types": "dist/index.d.ts",
   "engines": {
     "node": ">= 0.8.0"
   },
