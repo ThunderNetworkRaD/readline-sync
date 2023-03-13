@@ -1,6 +1,6 @@
 {
   "name": "@thundernetworkrad/readline-sync",
-  "version": "2023.01.30",
+  "version": "2023.03.13-1",
   "title": "readlineSync",
   "description": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).",
   "keywords": [

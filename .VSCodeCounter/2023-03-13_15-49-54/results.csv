@@ -1,0 +1,14 @@
+"filename", "language", "JSON", "Markdown", "JavaScript", "Shell Script", "PowerShell", "TypeScript", "YAML", "JSON with Comments", "comment", "blank", "total"
+"c:\Users\kille_zvmepd7\Documents\readline-sync\.eslintrc.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 12, 0, 1, 13
+"c:\Users\kille_zvmepd7\Documents\readline-sync\.github\workflows\npm-publish.yml", "YAML", 0, 0, 0, 0, 0, 0, 39, 0, 0, 1, 40
+"c:\Users\kille_zvmepd7\Documents\readline-sync\README-Deprecated.md", "Markdown", 0, 58, 0, 0, 0, 0, 0, 0, 0, 32, 90
+"c:\Users\kille_zvmepd7\Documents\readline-sync\README.md", "Markdown", 0, 1329, 0, 0, 0, 0, 0, 0, 0, 510, 1839
+"c:\Users\kille_zvmepd7\Documents\readline-sync\index.d.ts", "TypeScript", 0, 0, 0, 0, 0, 53, 0, 0, 22, 13, 88
+"c:\Users\kille_zvmepd7\Documents\readline-sync\lib\encrypt.js", "JavaScript", 0, 0, 15, 0, 0, 0, 0, 0, 7, 3, 25
+"c:\Users\kille_zvmepd7\Documents\readline-sync\lib\read.ps1", "PowerShell", 0, 0, 0, 0, 98, 0, 0, 0, 12, 19, 129
+"c:\Users\kille_zvmepd7\Documents\readline-sync\lib\read.sh", "Shell Script", 0, 0, 0, 97, 0, 0, 0, 0, 21, 20, 138
+"c:\Users\kille_zvmepd7\Documents\readline-sync\lib\read.wsh.js", "JavaScript", 0, 0, 100, 0, 0, 0, 0, 0, 10, 14, 124
+"c:\Users\kille_zvmepd7\Documents\readline-sync\lib\readline-sync.js", "JavaScript", 0, 0, 1078, 0, 0, 0, 0, 0, 139, 113, 1330
+"c:\Users\kille_zvmepd7\Documents\readline-sync\package.json", "JSON", 32, 0, 0, 0, 0, 0, 0, 0, 0, 1, 33
+"c:\Users\kille_zvmepd7\Documents\readline-sync\tslint.json", "JSON", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"Total", "-", 33, 1387, 1193, 97, 98, 53, 39, 12, 211, 727, 3850

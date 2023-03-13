@@ -1,0 +1,47 @@
+Date : 2023-03-13 15:49:54
+Directory : c:\Users\kille_zvmepd7\Documents\readline-sync
+Total : 12 files,  2912 codes, 211 comments, 727 blanks, all 3850 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| Markdown           |          2 |      1,387 |          0 |        542 |      1,929 |
+| JavaScript         |          3 |      1,193 |        156 |        130 |      1,479 |
+| PowerShell         |          1 |         98 |         12 |         19 |        129 |
+| Shell Script       |          1 |         97 |         21 |         20 |        138 |
+| TypeScript         |          1 |         53 |         22 |         13 |         88 |
+| YAML               |          1 |         39 |          0 |          1 |         40 |
+| JSON               |          2 |         33 |          0 |          1 |         34 |
+| JSON with Comments |          1 |         12 |          0 |          1 |         13 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                             | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                |         12 |      2,912 |        211 |        727 |      3,850 |
+| . (Files)                                                                        |          6 |      1,485 |         22 |        557 |      2,064 |
+| .github                                                                          |          1 |         39 |          0 |          1 |         40 |
+| .github\workflows                                                                |          1 |         39 |          0 |          1 |         40 |
+| lib                                                                              |          5 |      1,388 |        189 |        169 |      1,746 |
++----------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                         | language           | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\kille_zvmepd7\Documents\readline-sync\.eslintrc.json                    | JSON with Comments |         12 |          0 |          1 |         13 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\.github\workflows\npm-publish.yml | YAML               |         39 |          0 |          1 |         40 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\README-Deprecated.md              | Markdown           |         58 |          0 |         32 |         90 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\README.md                         | Markdown           |      1,329 |          0 |        510 |      1,839 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\index.d.ts                        | TypeScript         |         53 |         22 |         13 |         88 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\lib\encrypt.js                    | JavaScript         |         15 |          7 |          3 |         25 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\lib\read.ps1                      | PowerShell         |         98 |         12 |         19 |        129 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\lib\read.sh                       | Shell Script       |         97 |         21 |         20 |        138 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\lib\read.wsh.js                   | JavaScript         |        100 |         10 |         14 |        124 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\lib\readline-sync.js              | JavaScript         |      1,078 |        139 |        113 |      1,330 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\package.json                      | JSON               |         32 |          0 |          1 |         33 |
+| c:\Users\kille_zvmepd7\Documents\readline-sync\tslint.json                       | JSON               |          1 |          0 |          0 |          1 |
+| Total                                                                            |                    |      2,912 |        211 |        727 |      3,850 |
++----------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
